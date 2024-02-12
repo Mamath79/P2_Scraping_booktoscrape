@@ -4,3 +4,8 @@ test.py
 test 2.py
 Scraping_booktoscrape_github_repository.txt
 Books to Scrape_Datas
+
+
+
+*.pyc
+__pycache__/
